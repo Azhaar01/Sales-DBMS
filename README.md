@@ -38,4 +38,4 @@ This system is aimed at managing customer, product, and order data in an organiz
 - **Triggers**: Used for auditing changes in order data.
 
 ## ER Diagram
-![ER Diagram](path)
+![ER Diagram](Sales-ERD.drawio.png)
